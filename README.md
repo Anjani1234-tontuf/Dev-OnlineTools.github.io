@@ -1,5 +1,5 @@
 # Developer Tools
-Free Developer Tools Developed by Fromdev https://tools.fromdev.com/
+Free Developer Tools Developed by Fromdev https://www.tontuf.in/
 
 This is open source collection of developer tools that can be run on browser. The vision is to have a online tools website where all small tools can be present for developers or freelancers. Most of these tools are developed in JavaScript since we want them to run directly inside the browser. 
 
